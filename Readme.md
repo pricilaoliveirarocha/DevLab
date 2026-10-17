@@ -1,9 +1,3 @@
-# 🧪 DevLab — Central de Estudos & Laboratório Pessoal
-
-> Meu laboratório pessoal de desenvolvimento: repositório centralizado para experimentos, conceitos, códigos de estudo e documentações técnicas para consulta rápida.
-
----
-
-## 📌 Sobre o Repositório
+# 🧪 DevLab
 
 Este espaço funciona como minha base de conhecimento (**Second Brain**) voltada para engenharia de software, desenvolvimento backend e inteligência artificial. Aqui organizo resumos, pequenos projetos de teste (*sandboxes*), configurações e anotações acumuladas durante minha rotina de estudos.
